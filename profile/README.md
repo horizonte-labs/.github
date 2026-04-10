@@ -58,7 +58,7 @@ Together, we can build meaningful solutions.
 
 If you discover a vulnerability, please check the `SECURITY.md` file in the relevant repository.
 
-If unavailable, contact us at: **security@horizontelabs.dev** *(suggested email)*
+If unavailable, contact us at: **security@horizontelabs.dev**
 
 ---
 
